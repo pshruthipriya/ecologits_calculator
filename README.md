@@ -67,4 +67,5 @@ EcoLogits Calculator estimates AI model energy consumption and carbon footprint,
 👩‍💻 Shruthi | 👩‍💻 Disha  
 
 📩 **Contact Us:** gowdandisha@gmail.com 
+                    shruthi.p.priya@gmail.com
 
